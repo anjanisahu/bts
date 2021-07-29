@@ -1,0 +1,110 @@
+body{
+    background-color: purple;
+}
+h1{
+    background-color: purple;
+    justify-self: center;
+    font-weight: bold;
+
+   
+}
+h3{
+    background-color: purple;
+    justify-self: center;
+}
+.jimin{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+ }
+ h4{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ .v{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+ }
+ .suga{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+ }
+ .j-hope{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+ }
+ .rm{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+ }
+ .jungkok{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+ }
+ .jin{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+ }
+ .butter{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+}
+.dynamite{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+}
+.fakelove{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+}
+.ptl{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+}
+.lgn {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+}
+.s1 {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+}
+.s2 {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+}
